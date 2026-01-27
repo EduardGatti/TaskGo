@@ -1,17 +1,27 @@
-# React + Vite
+# 🚀 TaskGo - Suporte Inteligente via WhatsApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **TaskGo** é uma solução de atendimento focada em agilidade e organização para empresas que buscam profissionalizar o suporte ao cliente. O sistema utiliza automação estruturada para garantir respostas rápidas e triagem eficiente.
 
-Currently, two official plugins are available:
+## 🛠️ Sobre o Projeto
+Este repositório contém o front-end institucional da TaskGo, desenvolvido para apresentar os pacotes de serviços e facilitar o contato direto com a equipe de suporte.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Diferenciais do Sistema:
+* **Fluxo de Resposta Adaptado:** Sistema de bot personalizado de acordo com o nicho da empresa contratante.
+* **Atendimento Estruturado:** Foco em fluxos de decisão para respostas precisas e rápidas, sem as "alucinações" de uma IA generativa.
+* **Agilidade Operacional:** Menos tempo em tarefas repetitivas e mais foco no fechamento de negócios.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Tecnologias Utilizadas
+* **React.js:** Para a construção de uma interface dinâmica e performática.
+* **CSS3:** Layout responsivo utilizando Flexbox para alinhamento de componentes.
+* **React Icons:** Integração de ícones das bibliotecas `fi`, `ci` e `hi` para uma UI intuitiva.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# TaskGo---Seu-Assistente" 
+## ⚙️ Como Executar o Projeto
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/taskgo.git](https://github.com/seu-usuario/taskgo.git)
