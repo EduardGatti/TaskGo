@@ -12,6 +12,13 @@ function Footer() {
       <ul style={{ listStyle: "none", padding: 0 }}>
         <h3 className="titleFooter">Guia</h3>
         <li className="listFooter">
+          <a 
+          href="/Home"
+          className="direction"
+          >
+            Ínicio
+            <FiExternalLink size={14} />
+          </a>
           
         </li>
       </ul>
