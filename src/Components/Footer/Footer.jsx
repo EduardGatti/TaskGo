@@ -19,6 +19,14 @@ function Footer() {
             Ínicio
             <FiExternalLink size={14} />
           </a>
+          <br />
+          <a 
+          href="/register"
+          className="direction"
+          >
+            Cadastra-se
+            <FiExternalLink size={14} />
+          </a>
           
         </li>
       </ul>
