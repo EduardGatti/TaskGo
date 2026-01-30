@@ -7,7 +7,18 @@ function Login() {
       <Header />
 
       <div className="container-login">
+        <div className="card-main">
 
+        </div>
+        <div className='text-main'>
+
+        </div>
+        <div className="card">
+
+        </div>
+        <div className='text-main'>
+
+        </div>
       </div>
 
       <Footer />
